@@ -4,3 +4,6 @@ git pull -----------  bajar cambios del repo remto
 git status ------- ver las ramas que estixnte 
 git Branch rama -------crear una rama
 git checkout ------------ cambiar a rama seleccionar
+
+//
+nuevos comando 
