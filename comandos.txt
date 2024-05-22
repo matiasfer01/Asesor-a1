@@ -12,3 +12,5 @@ nuevos comando
 
 git restore . -----------------------> restarura archivo del working
 gir restore --staged .  ----------> restaura archivos del stating
+
+asdasdsadasd
